@@ -1,0 +1,68 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #04A1BF;
+}
+
+.heading {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+.heading1 {
+    text-align: center;
+    color: yellow;
+
+  }
+
+  .heading2 {
+    text-align: center;
+    color: green;
+
+  }
+
+.heading3 {
+   text-align: center;
+   color: white;
+}
+
+#problem {
+  border-radius: 12px;
+  margin-left: 200px;
+  padding: 10px;
+  width:60%;
+  font-size:18px;
+}
+
+button {
+  border-radius:12px;
+  padding:10px;
+  font-size:24px;
+  background-color: #04A1BF;
+  color:white;
+}
+
+ul{
+  list-style-type:none;
+}
+
+li {
+  border-radius: 12px;
+  margin-left: 200px;
+  padding: 10px;
+  width:50%;
+  font-size:18px;
+  background-color:white;
+}
+
+#cancel {
+  background-color: skyblue;
+  color: white;
+  font-size: 20px;
+  border-radius: 4px;
+}
+
+.buttonx{
+  margin-left: 500px;
+}
