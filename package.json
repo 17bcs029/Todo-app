@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/17bcs029/Todo-app#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
